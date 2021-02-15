@@ -10,7 +10,7 @@ For this assignment, the aim was to create a HTML page using Bootstrap to advert
 * The sidebar will contain (fake) information about upcoming tour dates.
 * The footer will contain a copyright symbol and this year.
 
-Check out my attempt: https://robbailiff.github.io/profile-page/
+Check out my attempt: https://robbailiff.github.io/bootstrap-band-website/
 
 The assignment is part of **The Coders Guild** JAMStack Web and App Development Course. Check out The Coders Guild [here](https://www.thecodersguild.org.uk/).
 
